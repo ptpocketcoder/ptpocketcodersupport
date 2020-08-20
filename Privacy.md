@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: page
 title: "Privacy Policy"
 permalink: /privacy/
 ---
