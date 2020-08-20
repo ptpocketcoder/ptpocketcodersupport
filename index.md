@@ -13,3 +13,4 @@ For support or questions regarding Pt Pocket Coder, please contact us at ptpocke
 ### Privacy Policy
 [View Privacy Policy here](https://ptpocketcoder.github.io/ptpocketcodersupport/privacy/ "Privacy Policy")
 ### Terms and Conditions
+[View Terms and Conditions here](https://ptpocketcoder.github.io/ptpocketcodersupport/term/ "Terms and Conditions")
