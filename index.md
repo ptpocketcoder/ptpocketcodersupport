@@ -11,5 +11,5 @@ Pt Pocket Coder is currently supported on iOS and Android.
 For support or questions regarding Pt Pocket Coder, please contact us at ptpocketcoder@gmail.com
 
 ### Privacy Policy
-
+[View Privacy Policy here](https://ptpocketcoder.github.io/ptpocketcodersupport/privacy/ "Privacy Policy")
 ### Terms and Conditions
