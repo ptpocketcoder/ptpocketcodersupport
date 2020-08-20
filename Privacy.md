@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: template
 title: "Privacy Policy"
-permalink: /Privacy/
+permalink: /privacy/
 ---
 
 ### Privacy Policy
